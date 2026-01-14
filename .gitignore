@@ -6,7 +6,7 @@ venv/
 
 # Node Modules (if at root)
 node_modules/
-Frontend/node_modules
+Frontend/node_modules/
 
 # Documentation (optional - uncomment if you don't want to track these)
 # FIX_REPORT.md
