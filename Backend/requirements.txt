@@ -1,0 +1,11 @@
+fastapi==0.115.0
+uvicorn[standard]==0.32.1
+pydantic==2.10.4
+python-multipart==0.0.20
+pyjwt==2.10.1
+passlib==1.7.4
+bcrypt==4.2.1
+python-jose[cryptography]==3.3.0
+openai==1.59.5
+pydub==0.25.1
+requests==2.32.3

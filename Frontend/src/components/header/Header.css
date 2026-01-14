@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: var(--background-color);
+  border-bottom: 2px solid var(--primary-color);
+}
+
+.logo {
+  font-size: 20px;
+  font-weight: bold;
+  color: var(--primary-color);
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.theme-toggle {
+  padding: 5px 10px;
+  background-color: var(--secondary-background-color);
+  color: var(--text-color);
+}
+
+.logout-btn {
+  padding: 5px 10px;
+  background-color: var(--primary-color);
+  color: white;
+}
+
+.logout-btn:hover {
+  background-color: var(--primary-color-dark);
+}
