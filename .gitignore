@@ -1,0 +1,40 @@
+# Root Level Gitignore
+
+# Python Virtual Environment (at root)
+.venv/
+venv/
+
+# Node Modules (if at root)
+node_modules/
+
+# Documentation (optional - uncomment if you don't want to track these)
+# FIX_REPORT.md
+# QUICKSTART.md
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+*~
+
+# Environment files
+.env
+.env.local
+.env.*.local
